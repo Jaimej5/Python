@@ -1,6 +1,7 @@
 #imprime
 a="variable"
+
 print("Hello world")
-print(a) 
-#imprimir tipo
-print(type("Hello World"))
+print(a)
+print(dir(a)) #que metodoss puedo usar?
+print(type("Hello World")) #imprimir tipo
